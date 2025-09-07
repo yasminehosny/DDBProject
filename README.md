@@ -116,7 +116,5 @@ All queries sent from slaves are logged in the `history_query.queries` table wit
 
 ---
 
-## 📧 Authors
 
-Prepared by your team - Distributed DB Project, 2025
 
